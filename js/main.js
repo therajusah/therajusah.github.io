@@ -1,4 +1,10 @@
-   /*======================================
+/* =====================================
+Template Name: Meheraj
+Author Name: Shakil Hossain
+Description: Meheraj is a modern Creative Personal Portfolio Template, you can use this template for your own personal portfolio,CV,Resume purpouse.
+Version:	1.1
+========================================*/   
+/*======================================
 [Start Activation Code]
 ========================================
 	* One Page Nav
